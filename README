@@ -1,0 +1,35 @@
+This script will validate the users IP so the user is able to use your script.
+You can also let users add their own IP address to the Valid List by letting them mail
+the activation link to a range of valid email addresses or domains.
+
+With this script you can give customers access to what ever you want.
+
+Add the domains you want to be valid;
+Add email addresses you want to be valid;
+Go to : http://YOURDOMAIN.COM/?add_ip=1
+
+Just put 11 lines in your index.php
+
+Written by Theo van der Sluijs with MongoDB
+http://www.vandersluijs.nl
+http://www.itheo.nl
+http://blog.vandersluijs.nl
+
+Date: 03/02/15
+
+Usage:
+
+Put the files on your server.
+Make config changes that will suit your cause.
+Please donate a coffee, to keep me coding on this sweet piece of code !!!
+
+
+Bitcoin : 18aJm8qj47iafT5gTgHrBAXzboDS8jEfZM
+Paypal : http://snurl.eu/coffee
+
+Have fun!
+
+Any Questions?
+
+Just Ask!
+info@ts-intermedia.nl
