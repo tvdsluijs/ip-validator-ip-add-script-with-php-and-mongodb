@@ -1,4 +1,5 @@
 <?php
+defined('_HIDE_OTHER_SCRIPTS') or die(header('HTTP/1.0 404 Not Found'));
 /**
  * Created by PhpStorm.
  * User: theovandersluijs
@@ -10,7 +11,6 @@
  * Paypal : http://snurl.eu/coffee
  *
  */
-defined('_HIDE_OTHER_SCRIPTS') or die(header('HTTP/1.0 404 Not Found'));
 if (SHOW_ERRORS) {
     error_reporting(E_ALL);
     ini_set('display_errors', '1');
